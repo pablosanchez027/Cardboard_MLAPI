@@ -385,8 +385,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   vrCamera: {fileID: 4847041121246054693}
-  toggleAngle: 15
-  speed: 10
+  toggleAngle: 30
+  speed: 5
   movedForward: 0
   cam: {fileID: 4847041121246054681}
 --- !u!114 &7619071616730349430
